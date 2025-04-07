@@ -1,8 +1,8 @@
-# ScopeIt
+# Scope It :telescope:
 
-This tiny repository aims to compute an IP addresses list based on inclusion and exclusion lists.
+This tiny - *quick'n'dirty* - project aims to compute an IP addresses list based on inclusion and exclusion lists.
 
-## Usage
+## TL;DR
 
 The script takes files as parameters, containing IP addresses or CIDR, one per line.
 
