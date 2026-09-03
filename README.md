@@ -40,4 +40,4 @@ $ cat scope.txt
 
 ## License
 
-See [LICENSE](./LICENSE) file.
+See [LICENSE.txt](./LICENSE.txt) file.
